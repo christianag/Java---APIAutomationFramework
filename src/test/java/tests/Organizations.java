@@ -5,9 +5,7 @@ import io.restassured.response.Response;
 import org.apache.http.HttpStatus;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import java.util.ArrayList;
-
 import static io.restassured.RestAssured.given;
 
 public class Organizations extends Base{
