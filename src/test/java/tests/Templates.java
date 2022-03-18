@@ -8,9 +8,7 @@ import jsons.TemplatesMultilangEdit;
 import org.apache.http.HttpStatus;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import java.util.ArrayList;
-
 import static io.restassured.RestAssured.given;
 
 public class Templates extends Base {
